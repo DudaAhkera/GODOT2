@@ -14,7 +14,7 @@
 ## Bootcamp Santander Criando Jogos com Godot 
 
 
-### DIO <img src="/assets/logo-full.svg" width="50px">   ### Santander  <img src="/assets/santander.jpg" width="50px">   ### Godot    <img src="/assets/godot.png" width="50px">
+### DIO <img src="/assets/logo-full.svg" width="50px">   ### Santander  <img src="/assets/santander.jpg" heigth="50px" width="100px">   ### Godot    <img src="/assets/godot.png" width="50px">
 
 
           
