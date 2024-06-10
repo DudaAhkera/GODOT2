@@ -14,7 +14,7 @@
 ## Bootcamp Santander Criando Jogos com Godot 
 
 
-<img src="/assets/logo-full">
+<img src="/assets/logo-full.svg">
 
           
           
