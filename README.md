@@ -1,3 +1,3 @@
  # 2️⃣ Calculadora de partidas Rankeadas
 
-<img src="GODOT2/assets/pighy.webp">
+<img src="/assets/giphy.webp">
