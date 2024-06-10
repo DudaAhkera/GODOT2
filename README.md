@@ -1,7 +1,16 @@
  # 2️⃣ Calculadora de partidas Rankeadas
 
-<<<<<<< HEAD
+
 <img src="/assets/giphy.webp">
-=======
-<img src="assets\giphy.webp">
->>>>>>> 6afcd3b9477d7f5f132b5911165432f2a3227bd6
+
+
+
+## Estou aprendendo 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px">
+          
+          
+          
+
+
