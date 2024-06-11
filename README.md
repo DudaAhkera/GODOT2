@@ -16,7 +16,7 @@
 
 
 
-### DIO <img src="/assets/logo-full.svg">   Santander  <img src="/assets/santander-logo.png">   Godot    <img src="/assets/godot.png">
+### DIO <img src="/assets/logo-full.svg" width= "50px">   Santander  <img src="/assets/santander-logo.png" width= "50px">   Godot    <img src="/assets/godot.png" width="50px">
 
 
 
