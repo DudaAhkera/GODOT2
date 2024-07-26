@@ -1,7 +1,7 @@
 # BOOTCAMP CRIANDO JOGOS COM GODOT
 
 
-## - Calculadora de partidas Rankeadas
+##- [x] Calculadora de partidas Rankeadas
 
 
 <img src="/assets/giphy.webp">
@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px">
 
 
-## - Jogo finalizado na plataforma GODOT
+##- [x] Jogo finalizado na plataforma GODOT
 
 <img src="/assets/Warrior_Purple_1.png" width="100px">
 
