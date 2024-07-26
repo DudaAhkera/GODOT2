@@ -14,7 +14,7 @@
 ## Bootcamp Santander Criando Jogos com Godot 
 
 
-# 3 Jogo finalizado na plataforma GODOT
+# Jogo finalizado na plataforma GODOT
 
 <img src="/assets/Warrior_Purple_1.png">
 
