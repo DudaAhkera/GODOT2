@@ -16,7 +16,7 @@
 
 ## Jogo finalizado na plataforma GODOT :heavy_check_mark:
 
-<img src="/assets/Warrior_Purple_1.png" width="100px">
+<img src="/assets/Warrior_Purple_1.png" width=">
 
 ## Bootcamp Santander Criando Jogos com Godot 
 
