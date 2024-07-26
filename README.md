@@ -1,4 +1,4 @@
- # 2️⃣ Calculadora de partidas Rankeadas
+ # Calculadora de partidas Rankeadas
 
 
 <img src="/assets/giphy.webp">
@@ -14,6 +14,9 @@
 ## Bootcamp Santander Criando Jogos com Godot 
 
 
+# 3 Jogo finalizado na plataforma GODOT
+
+<img src="">
 
 
 ### DIO <img src="/assets/logo-full.svg" width= "50px">   Santander  <img src="/assets/santander-logo.png" width= "50px">   Godot    <img src="/assets/godot.png" width="50px">
